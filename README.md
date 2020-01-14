@@ -162,6 +162,9 @@ yarn test
 
 Links a documentación de referencia de las tecnologías utilizadas.
 
+### React
+- Udemy.com. (2020). Cursos React Gratis. [online] Available at: https://www.udemy.com/es/topic/react/free/ [Accessed 14 Jan. 2020].
+
 ### Webpack
 
 - Stack Overflow. (2019). where is create-react-app webpack config and files?. [online] Available at: https://stackoverflow.com/questions/48395804/where-is-create-react-app-webpack-config-and-files [Accessed 14 Jan. 2020].
