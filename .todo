@@ -1,0 +1,20 @@
+
+armado de api en nodeJs con mocjs
+
+incorporar manejo de estado con context api
+
+add security to ui
+
+pasar lo de los videos de react a ui e ir documentando en readme (serivice worker)
+
+devOps:
+  armado de dockerFile para deploy en heroku
+  armado de script para deploy en circle-ci
+  ver arquitectura en azure
+
+readme:
+  completar las urls en las tecnologías usadas en el readme
+  documentar las carpetas en el readme
+  poner los cositos de arriba dle readme de license y demas....(Ver en reat o yarn)
+
+
