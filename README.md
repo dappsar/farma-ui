@@ -15,17 +15,17 @@
 - [yarn](https://yarnpkg.com/lang/en/): Como gestor de paquetes. Aporta varias [ventajas](https://www.arquitecturajava.com/yarn-package-manager-y-node-js/) sobre el uso del (conocido) [npm](https://www.npmjs.com/).
 - [React](https://es.reactjs.org/): Como biblioteca de Javascript para la interfaz de usuario.
 - [Context API](https://es.reactjs.org/docs/context.html): Para la persistencia de estado de React. Es una alternativa a Redux.
-- Javascript
-- html
-- css
-- pwa
-- ServiceWorker
+- [Javascript](https://www.w3schools.com/js/): Como lenguaje principal de desarrollo.
+- [html](https://www.w3schools.com/html/): Como lenguaje de desarrollo para las páginas web.
+- [css](https://www.w3schools.com/css/): Como lenguaje de desarrollo para la aplicación de estilos a las páginas web.
+- [pwa](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp?hl=es): Aplicación de escritorio que brinda una "experiencia" como si fuera una app móvil.
+- [ServiceWorker](https://developers.google.com/web/fundamentals/primers/service-workers?hl=es): Patrón de diseño para página web progresivas.
 - [Webpack](https://webpack.js.org/): Como un 'empaquetador de módulos' (bundler) para ejecución de tareas, conversión de formatos, servidor de desarrollo, carga y uso de módulos de todo tipo (como AMD, commonJs o ES2015). 
-- Babel
-- Jest: testing
-- [Javascript Standar Style](https://standardjs.com/readme-esla.html): Se usa en webpack con standard-loader, para centralizar los estánderes en el código y evitar tener archivos como: .eslintrc, .jshintrc, .jssrc.
-- [Docker](): Para integración contínua y despliegue contínuo
-- [Heroku](): https://elements.heroku.com/buildpacks/mars/create-react-app-buildpack
+- [Babel](https://babeljs.io/): USando en compilación, para generación de archivos estándar de Javascript.
+- [Jest](https://jestjs.io/): testing
+- [Javascript Standar Styles](https://standardjs.com/readme-esla.html): Se usa en webpack con standard-loader, para centralizar los estánderes en el código y evitar tener archivos como: .eslintrc, .jshintrc, .jssrc.
+- [Docker](https://www.docker.com/): Para integración contínua y despliegue contínuo
+- [Heroku](https://dashboard.heroku.com/): https://elements.heroku.com/buildpacks/mars/create-react-app-buildpack
 - [LightHouse Chrome Extension](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=es): Extensión específica de Chrome para usar con React.
 - Azure
 
