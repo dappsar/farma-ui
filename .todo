@@ -1,5 +1,41 @@
 
-armado de api en nodeJs con mocjs
+
+Acomodar:
+
+https://azure.microsoft.com/es-mx/blog/webapp-for-containers-overview/
+https://azure.microsoft.com/en-gb/resources/videos/create-a-web-app-with-nodejs-and-azure-app-service/
+https://www.thinkasync.tips/posts/rrPExJ9xiSGo4IkeWuEgK/ci-cd-stencil-pwa-on-azure-using-devops
+https://www.mckennaconsultants.com/securing-tokens-in-a-progressive-web-app/
+https://developers.elasticpath.com/referencestore/1.0/referencestore-architecture
+https://developers.google.com/web/ilt/pwa/introduction-to-progressive-web-app-architectures
+https://asperbrothers.com/blog/pwa-2019-best-practices-checklist/
+https://www.robinwieruch.de/complete-firebase-authentication-react-tutorial}
+https://dev.to/dotnet/learn-how-you-can-use-graphql-in-net-core-and-c-4h96
+https://medium.com/@jmz12/que-es-graphql-bf835e55960
+https://appyourself.net/es/blog/google-play-store-ofrece-espacio-para-progressive-web-apps-pwa/
+https://es.goodbarber.com/blog/ios-abre-sus-puertas-a-las-progressive-web-apps-a607/
+https://developers.google.com/web/fundamentals/codelabs/push-notifications?hl=es
+
+
+
+
+
+mensajeria:
+  firebase?
+  https://carlosazaustre.es/conectando-firebase-a-react/
+  https://dev.to/satansdeer/firebase-react-crud-tutorial-how-to-use-firebase-firestore-with-reactjs-g7m
+
+Arquitectura:
+
+  https://medium.com/allineo/lean-architecture-in-the-cloud-47b42e451274
+
+
+Hacer para backend:
+
+  https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mongo-app?view=aspnetcore-3.1&tabs=visual-studio
+  https://docs.microsoft.com/en-us/aspnet/core/tutorials/web-api-javascript?view=aspnetcore-3.1
+  https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-3.1&tabs=visual-studio-code
+
 
 incorporar manejo de estado con context api
 
